@@ -135,14 +135,14 @@ TelecomX_Data_español.xlsx: Dataset final con todas las transformaciones
 
 🔮 Próximos Pasos
 🎯 Análisis Futuro:
-Modelado Predictivo:
+Modelado Predictivo
 Regresión logística
 Random Forest
 XGBoost
-Segmentación Avanzada:
+Segmentación Avanzada
 Clustering de clientes
 Análisis de cohortes
-Dashboard Interactivo:
+Dashboard Interactivo
 Power BI/Tableau
 Streamlit app
 

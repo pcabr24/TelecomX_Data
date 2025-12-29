@@ -11,12 +11,11 @@ Este proyecto tiene como objetivo analizar y predecir el **churn** (abandono de 
 4. Preparar los datos para futuros modelos predictivos
 
 ## 📁 Estructura del Proyecto
-TelecomX_LATAM/
-├── TelecomX_LATAM_informe_final.ipynb # Notebook principal con el análisis completo
-├── TelecomX_Data.xlsx # Dataset exportado en español
-├── TelecomX_Data_español.xlsx # Dataset final procesado
-└── README.md # Este archivo
-
+TelecomX_LATAM
+TelecomX_LATAM_informe_final.ipynb # Notebook principal con el análisis completo
+TelecomX_Data.xlsx # Dataset exportado en español
+TelecomX_Data_español.xlsx # Dataset final procesado
+README.md # Este archivo
 
 ## 🔄 Flujo del Proyecto
 
